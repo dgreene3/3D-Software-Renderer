@@ -27,6 +27,7 @@ namespace _3D_Software_Renderer_CSharp_WinForms
                 for (int x = 0; x < bmp.Width; ++x)
                 {
                     backBuffer.SetPixel(x, y, Color.Black);
+                    
                 }
             }
 
