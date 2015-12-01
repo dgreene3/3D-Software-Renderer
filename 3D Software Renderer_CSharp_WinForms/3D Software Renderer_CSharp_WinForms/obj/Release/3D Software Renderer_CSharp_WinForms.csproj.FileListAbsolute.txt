@@ -1,0 +1,10 @@
+D:\Programming\3D Software Renderer\3D Software Renderer_CSharp_WinForms\3D Software Renderer_CSharp_WinForms\bin\Release\3D Software Renderer_CSharp_WinForms.exe.config
+D:\Programming\3D Software Renderer\3D Software Renderer_CSharp_WinForms\3D Software Renderer_CSharp_WinForms\bin\Release\3D Software Renderer_CSharp_WinForms.exe
+D:\Programming\3D Software Renderer\3D Software Renderer_CSharp_WinForms\3D Software Renderer_CSharp_WinForms\bin\Release\3D Software Renderer_CSharp_WinForms.pdb
+D:\Programming\3D Software Renderer\3D Software Renderer_CSharp_WinForms\3D Software Renderer_CSharp_WinForms\bin\Release\SharpDX.dll
+D:\Programming\3D Software Renderer\3D Software Renderer_CSharp_WinForms\3D Software Renderer_CSharp_WinForms\bin\Release\SharpDX.xml
+D:\Programming\3D Software Renderer\3D Software Renderer_CSharp_WinForms\3D Software Renderer_CSharp_WinForms\obj\Release\_3D_Software_Renderer_CSharp_WinForms.Form1.resources
+D:\Programming\3D Software Renderer\3D Software Renderer_CSharp_WinForms\3D Software Renderer_CSharp_WinForms\obj\Release\_3D_Software_Renderer_CSharp_WinForms.Properties.Resources.resources
+D:\Programming\3D Software Renderer\3D Software Renderer_CSharp_WinForms\3D Software Renderer_CSharp_WinForms\obj\Release\3D Software Renderer_CSharp_WinForms.csproj.GenerateResource.Cache
+D:\Programming\3D Software Renderer\3D Software Renderer_CSharp_WinForms\3D Software Renderer_CSharp_WinForms\obj\Release\3D Software Renderer_CSharp_WinForms.exe
+D:\Programming\3D Software Renderer\3D Software Renderer_CSharp_WinForms\3D Software Renderer_CSharp_WinForms\obj\Release\3D Software Renderer_CSharp_WinForms.pdb
